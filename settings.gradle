@@ -1,0 +1,6 @@
+rootProject.name = 'SchoolGradingSystemUpgraded'
+include 'infrastructure'
+include 'infrastructure:persistence'
+include 'infrastructure:rest-api'
+include 'domain'
+
